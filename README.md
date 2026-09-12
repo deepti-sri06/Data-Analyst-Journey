@@ -51,5 +51,3 @@ My goal is to become a Data Analyst and develop strong practical skills in:
 **Excel → SQL → Statistics → Power BI → Python**
 
 ## 📈 Progress
-
-- SQL FUNDAMENTALS.
